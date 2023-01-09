@@ -1,0 +1,122 @@
+<button class="btn btn-coutb-gray" id="ddoc-00102">comunicación efectiva i</button>
+<button class="btn btn-coutb-gray" id="ddoc-00070">lengua de señas a-i</button>
+<button class="btn btn-coutb-gray" id="ddoc-00072">lengua de señas a-ii</button>
+<button class="btn btn-coutb-gray" id="ddoc-00076">rrss y marketing digital</button>
+<button class="btn btn-coutb-gray" id="ddoc-00081">inserción laboral</button>
+<button class="btn btn-coutb-gray" id="ddoc-00085">orígenes. la historía de la fo</button>
+<button class="btn btn-coutb-gray" id="ddoc-00087">actitud emprendedora</button>
+<button class="btn btn-coutb-gray" id="ddoc-00091">nutriendome aprendo</button>
+<button class="btn btn-coutb-gray" id="ddoc-00093">salud reproductiva</button>
+<button class="btn btn-coutb-gray" id="ddoc-00099">astronomía básica</button>
+<button class="btn btn-coutb-gray" id="ddoc-00100">ma y desarrollo sustentable</button>
+<button class="btn btn-coutb-gray" id="ddoc-00103">basquetbol y voleibol</button>
+<button class="btn btn-coutb-gray" id="ddoc-00105">acond. físico y trabajo de mus</button>
+<button class="btn btn-coutb-gray" id="ddoc-00109">hatha yoga: filosofía práctica</button>
+<button class="btn btn-coutb-gray" id="ddoc-00110">cerámica artística</button>
+<button class="btn btn-coutb-gray" id="ddoc-00111">autocuidado y manejo de estrés</button>
+<button class="btn btn-coutb-gray" id="ddoc-00113">francés i</button>
+<button class="btn btn-coutb-gray" id="ddoc-00115">ms excel: fundamentos y herram</button>
+<button class="btn btn-coutb-gray" id="ddoc-00117">taller de oratoria</button>
+<button class="btn btn-coutb-gray" id="ssed-00071">género, ddhh e inclusión</button>
+<button class="btn btn-coutb-gray" id="ddoc-01010">inglés nivelación a</button>
+<button class="btn btn-coutb-gray" id="date-00015">identidad, univ., equid. y gén</button>
+<button class="btn btn-coutb-gray" id="dafi-00103">introducción a la física</button>
+<button class="btn btn-coutb-gray" id="dama-00135">cálculo i</button>
+<button class="btn btn-coutb-gray" id="dama-00136">álgebra i</button>
+<button class="btn btn-coutb-gray" id="faic-00102">proyecto introducción a la ingeniería i</button>
+<button class="btn btn-coutb-gray" id="ddoc-01011">inglés nivelación b</button>
+<button class="btn btn-coutb-gray" id="date-00024">arte y religión</button>
+<button class="btn btn-coutb-gray" id="date-00031">otredad</button>
+<button class="btn btn-coutb-gray" id="date-00032">el problema del mal en el mund</button>
+<button class="btn btn-coutb-gray" id="date-00056">hay vida después de la muerte?</button>
+<button class="btn btn-coutb-gray" id="date-00074">la fe bajo sospecha</button>
+<button class="btn btn-coutb-gray" id="date-00079">mujeres líderes</button>
+<button class="btn btn-coutb-gray" id="date-00080">historia y política feminista</button>
+<button class="btn btn-coutb-gray" id="date-00085">los bailes relig. norte grande</button>
+<button class="btn btn-coutb-gray" id="dafi-00203">mecánica</button>
+<button class="btn btn-coutb-gray" id="dais-00200">programación</button>
+<button class="btn btn-coutb-gray" id="dama-00235">cálculo ii</button>
+<button class="btn btn-coutb-gray" id="dama-00236">álgebra ii</button>
+<button class="btn btn-coutb-gray" id="daqu-00202">química general</button>
+<button class="btn btn-coutb-gray" id="ddoc-01012">inglés i</button>
+<button class="btn btn-coutb-gray" id="date-00046">ecología integral</button>
+<button class="btn btn-coutb-gray" id="date-00058">dios da para pensar</button>
+<button class="btn btn-coutb-gray" id="date-00060">creación y evolución</button>
+<button class="btn btn-coutb-gray" id="date-00062">ciencia y dios</button>
+<button class="btn btn-coutb-gray" id="date-00064">avances científicos: pro y con</button>
+<button class="btn btn-coutb-gray" id="date-00066">derecho humano y cristianismo</button>
+<button class="btn btn-coutb-gray" id="date-00067">creer y pensar</button>
+<button class="btn btn-coutb-gray" id="date-00076">sexualidad, ciencia y religión</button>
+<button class="btn btn-coutb-gray" id="daiq-00600">termodinámica</button>
+<button class="btn btn-coutb-gray" id="dais-00302">programación avanzada</button>
+<button class="btn btn-coutb-gray" id="dais-00304">proyecto introducción a la ingeniería ii</button>
+<button class="btn btn-coutb-gray" id="dama-00309">ecuaciones diferenciales</button>
+<button class="btn btn-coutb-gray" id="dama-00410">cálculo iii</button>
+<button class="btn btn-coutb-gray" id="ddoc-01013">inglés ii</button>
+<button class="btn btn-coutb-gray" id="dafi-00440">dinámica</button>
+<button class="btn btn-coutb-gray" id="dafi-00505">electromagnetismo</button>
+<button class="btn btn-coutb-gray" id="dais-00401">estructura de datos</button>
+<button class="btn btn-coutb-gray" id="dais-00402">diseño de sistemas digitales</button>
+<button class="btn btn-coutb-gray" id="dama-00312">estadística</button>
+<button class="btn btn-coutb-gray" id="daii-00600">ingeniería económica</button>
+<button class="btn btn-coutb-gray" id="dais-00603">diseño y análisis de algoritmos</button>
+<button class="btn btn-coutb-gray" id="dais-00605">ingeniería de software</button>
+<button class="btn btn-coutb-gray" id="ddoc-00202">comunicación efectiva ii</button>
+<button class="btn btn-coutb-gray" id="daii-00605">emprendimiento</button>
+<button class="btn btn-coutb-gray" id="date-01204">ética y moral profesional</button>
+<button class="btn btn-coutb-gray" id="daic-00200">dibujo de ingeniería</button>
+<button class="btn btn-coutb-gray" id="dais-00704">gestión de proyectos ti</button>
+<button class="btn btn-coutb-gray" id="dais-00705">sistemas operativos</button>
+<button class="btn btn-coutb-gray" id="dais-00706">proyecto desarrollo software basado en plataformas</button>
+<button class="btn btn-coutb-gray" id="dama-00409">métodos numéricos</button>
+<button class="btn btn-coutb-gray" id="dais-01061">introducción a data science</button>
+<button class="btn btn-coutb-gray" id="dais-09054">cloud computing</button>
+<button class="btn btn-coutb-gray" id="dais-09055">internet de las cosas</button>
+<button class="btn btn-coutb-gray" id="dais-09058">control inteligente</button>
+<button class="btn btn-coutb-gray" id="dais-09059">sist.adquisición y distr.datos</button>
+<button class="btn btn-coutb-gray" id="dais-09062">ciberseguridad</button>
+<button class="btn btn-coutb-gray" id="daiq-00770">mecánica de fluídos</button>
+<button class="btn btn-coutb-gray" id="daiq-00800">ing. y desarrollo sustentable</button>
+<button class="btn btn-coutb-gray" id="dais-00810">sistemas de información i</button>
+<button class="btn btn-coutb-gray" id="dais-00815">redes de computadores</button>
+<button class="btn btn-coutb-gray" id="dais-00900">sistemas embebidos</button>
+<button class="btn btn-coutb-gray" id="dais-00901">sistemas inteligentes</button>
+<button class="btn btn-coutb-gray" id="dais-00902">proyecto diseño de sistemas de inteligencia de negocios</button>
+<button class="btn btn-coutb-gray" id="dais-00910">sistemas de información ii</button>
+<button class="btn btn-coutb-gray" id="dais-00818">capstone project</button>
+<button class="btn btn-coutb-gray" id="dafi-00606">óptica y física moderna</button>
+<button class="btn btn-coutb-gray" id="dais-00503">fundamentos de la computación</button>
+<button class="btn btn-coutb-gray" id="dais-00504">base de datos</button>
+<button class="btn btn-coutb-gray" id="dais-00505">arquitectura y organización de computadores</button>
+<button class="btn btn-coutb-gray" id="dais-00506">proyecto ciencias aplicadas</button>
+<button class="btn btn-coutb-gray" id="dais-00703">electrotecnia</button>
+<button class="btn btn-coutb-gray" id="ddoc-00080">cine e identidad</button>
+<button class="btn btn-coutb-gray" id="ddoc-00097">innovación social</button>
+<button class="btn btn-coutb-gray" id="ddoc-00119">english for business intermedi</button>
+<button class="btn btn-coutb-gray" id="ddoc-00121">desarrollo habilidades claves</button>
+<button class="btn btn-coutb-gray" id="ddoc-00123">power bi: fundamentos y herram</button>
+<button class="btn btn-coutb-gray" id="ddoc-00125">survival spanish para extranje</button>
+<button class="btn btn-coutb-gray" id="ssed-00075">pensamiento de diseño</button>
+<button class="btn btn-coutb-gray" id="ssed-00077">envejecimiento activo</button>
+<button class="btn btn-coutb-gray" id="ssed-08206">autocuidado y manejo del estré</button>
+<button class="btn btn-coutb-gray" id="date-00023">sentido de la vida</button>
+<button class="btn btn-coutb-gray" id="date-00053">profesión y servicio</button>
+<button class="btn btn-coutb-gray" id="date-00055">desigualdad y responsabilidad</button>
+<button class="btn btn-coutb-gray" id="date-00057">cultura solidaria</button>
+<button class="btn btn-coutb-gray" id="date-00041">dios creador y ciencia moderna</button>
+<button class="btn btn-coutb-gray" id="date-00048">filosofía y ciencia</button>
+<button class="btn btn-coutb-gray" id="date-00061">ser humano</button>
+<button class="btn btn-coutb-gray" id="dais-00601">análisis de señales</button>
+<button class="btn btn-coutb-gray" id="dais-00604">lenguajes de programación</button>
+<button class="btn btn-coutb-gray" id="dais-00606">proyecto procesamiento analítico de datos</button>
+<button class="btn btn-coutb-gray" id="dais-09050">redes inalámbricas empresarial</button>
+<button class="btn btn-coutb-gray" id="dais-09051">fundamentos de robótica</button>
+<button class="btn btn-coutb-gray" id="dais-09057">high performance computing</button>
+<button class="btn btn-coutb-gray" id="faic-01004">sh: desafío futuro ind. minera</button>
+<button class="btn btn-coutb-gray" id="dais-00816">proyecto tópicos avanzados de ingeniería de software</button>
+<button class="btn btn-coutb-gray" id="fgv-001">formación general valórica i</button>
+<button class="btn btn-coutb-gray" id="fgv-002">formación general valórica ii</button>
+<button class="btn btn-coutb-gray" id="fgv-003">formación general valórica iii</button>
+<button class="btn btn-coutb-gray" id="fgv-004">formación general valórica iv</button>
+<button class="btn btn-coutb-gray" id="fge-001">formación general electiva i</button>
+<button class="btn btn-coutb-gray" id="fge-002">formación general electiva ii</button>

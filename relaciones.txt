@@ -1,0 +1,48 @@
+mecánica-introducción a la física/cálculo i
+cálculo ii-cálculo i
+álgebra ii-álgebra i
+programación-proyecto introducción a la ingeniería i/álgebra i
+formación general valórica ii-formación general valórica i
+Inglés Nivelación B-Inglés Nivelación A
+ecuaciones diferenciales-cálculo ii/álgebra ii
+cálculo iii-cálculo ii
+termodinámica-cálculo ii/química general
+Programación Avanzada-programación
+formación general valórica iii-formación general valórica ii
+Inglés i-Inglés Nivelación b
+Proyecto Introducción a la Ingeniería II-programación/proyecto introducción a la ingeniería i
+electromagnetismo-mecánica/álgebra ii/cálculo iii
+Estadística-cálculo ii
+Diseño de Sistemas Digitales-álgebra ii
+dinámica-mecánica
+estructura de datos-programación avanzada
+Inglés i-Inglés ii
+Inglés i-Inglés ii
+Óptica y Física Moderna-electromagnetismo
+Fundamentos de la Computación-Programación Avanzada
+electrotecnia-electromagnetismo/ecuaciones diferenciales
+Arquitectura y Organización de Computadores-Diseño de Sistemas Digitales
+base de datos-estructura de datos
+proyecto ciencias aplicadas-*
+Análisis de Señales-electrotecnia
+Diseño y Análisis de Algoritmos-Fundamentos de la Computación
+Ingeniería Económica-cálculo ii
+Lenguajes de Programación-estructura de datos
+Ingeniería de Software-estructura de datos
+Proyecto Procesamiento Analítico de Datos-base de datos
+Métodos Numéricos-ecuaciones diferenciales
+Dibujo de Ingeniería-álgebra i
+Gestión de Proyectos TI-Ingeniería Económica
+Sistemas Operativos-Arquitectura y Organización de Computadores
+Comunicación Efectiva II-Comunicación Efectiva I
+formación general valórica iv-formación general valórica iii
+Proyecto Desarrollo Software Basado en Plataformas-Ingeniería de Software
+Mecánica de Fluídos-Mecánica-ecuaciones diferenciales
+Sistemas de Información I-base de datos
+Redes de Computadores-Análisis de Señales
+Proyecto Tópicos Avanzados de Ingeniería de Software-Proyecto Desarrollo Software Basado en Plataformas
+Sistemas de Información II-Sistemas de Información I
+Sistemas Embebidos-Arquitectura y Organización de Computadores
+Sistemas Inteligentes-Lenguajes de Programación/Diseño y Análisis de Algoritmos
+Proyecto Diseño de Sistemas de Inteligencia de Negocios-Gestión de Proyectos TI/Proyecto Procesamiento Analítico de Datos
+Capstone Project-**
